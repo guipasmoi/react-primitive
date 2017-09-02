@@ -1,0 +1,22 @@
+{
+  "name": "react-primitive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipasmoi/react-primitive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guipasmoi/react-primitive/issues"
+  },
+  "homepage": "https://github.com/guipasmoi/react-primitive#readme",
+  "peerDependencies": {
+    "react": "^15.6.1"
+  }
+}
